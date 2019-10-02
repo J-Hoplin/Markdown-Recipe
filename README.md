@@ -189,3 +189,17 @@ Markdown Recipe
 
     > * quote list1
     > * quote list2
+
+- 마크다운 내에서 LaTex 문법으로 수식 작성하기
+
+    마크다운 내에서 LaTex문법을 작성할 수 있습니다. 이를 통해 수식을 넣을수 있게됩니다.
+    LaTex문법은 여기를 참고하시면 됩니다 : [링크](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95)
+    LaTex문법 작성을 위해서는 $과 $로 묶어준 다음 그 안에서 LaTex문법을 작성해 주면 됩니다.
+    
+    **LaTex문법은 해당 마크다운 에디터가 멀티 마크다운 일때만 지원됩니다**
+
+    ~~~
+    $
+    LaTex 기호
+    $
+    ~~~
