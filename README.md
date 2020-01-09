@@ -38,13 +38,13 @@ Markdown Recipe
     - 순서 목록(Ordered List `<ol>`)
 
     ~~~
-    1 . A
-    2 . B
-    3 . C
+    1. A
+    2. B
+    3. C
     ~~~
-    1 . A
-    2 . B
-    3 . C
+    1. A
+    2. B
+    3. C
 
     - 순서 없는 목록(Unordered List `<ul>`)
 
