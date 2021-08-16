@@ -221,7 +221,7 @@ Markdown Recipe
     <변수 가운데 정렬>
     
     |Col1|Col2|Col3|
-    |----|----|----|
+    |:----:|:----:|:----:|
     |content|content|content|
     |content|content|content|
     |content|content|content|
