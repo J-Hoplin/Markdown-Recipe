@@ -112,11 +112,16 @@ Markdown Recipe
 
     <jhyoon0815103@gmail.com>
 
+- 취소선(`<del>`)
+    ~~~
+    ~~Some Text~~
+    ~~~
+    ~~Delete Text~~
 - 이탤릭체(기울임체,`<i>` or `<em>`)
 
     ~~~ 
 
-    *글*
+    *Some Text*
 
     ~~~
 
@@ -128,7 +133,7 @@ Markdown Recipe
 
     ~~~
 
-    **글**
+    **Some Text**
 
     ~~~
     
@@ -251,3 +256,16 @@ Markdown Recipe
  |content|content|content|
  |content|content|content|
  |content|content|content|
+
+- 체크박스로 TODO List 만들어 보기(지원하지 않는 Markdown 엔진도 있음)
+
+    - 체크박스를 만들어 보자.
+
+    ~~~
+    [ ] -> 빈 체크박스
+    [ x ] -> 체크된 체크박스 
+    ~~~
+    - 간단하게 TODO List를 만들어 봅니다
+
+[ x ] ~~My TODO 1~~
+[ ]  My TODO 2
