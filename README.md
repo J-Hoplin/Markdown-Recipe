@@ -1,7 +1,9 @@
 Markdown Recipe
 ===
 ***
-
+- 각 문법 옆에 (<???>)로 되어있는 것들은 각 마크다운 문법에 해당하는 html태그들을 작성해 놓은 것입니다!
+- 마크다운 문법에 html태그를 넣어도 동작합니다. (ex : <br>, <img> 태그를 넣어 처리하는 등)
+***
 # 1. 제목(header)
 
 - 문자서의 메인 제목(Main Title)으로 작성할 때
@@ -111,6 +113,14 @@ Markdown Recipe
     ~~~
 
     <jhyoon0815103@gmail.com>
+    
+- 인라인 코드
+    
+    ~~~
+    `some text` another text
+    ~~~
+    
+    `some text` another text
 
 - 취소선(`<del>`)
     ~~~
